@@ -32,4 +32,4 @@ Total em juros:       R$ 1,457,018.53
 - Python 3.13
 
 ## 👨‍💻 Autor
-Felipe Souza — Corretor de imóveis em transição para desenvolvimento de software
+Felipe Souza
