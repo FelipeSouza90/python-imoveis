@@ -1,35 +1,22 @@
-# python-imoveis
-# 🏠 Calculadora de Financiamento Imobiliário
+# 🏠 Python no Mercado Imobiliário
 
-Ferramenta desenvolvida em Python para simular financiamentos imobiliários,
-calculando parcelas mensais, total pago e total em juros.
+Repositório com projetos Python desenvolvidos por um corretor de imóveis 
+em transição para a área de tecnologia.
 
-## 💡 Contexto
-Desenvolvido por um corretor de imóveis em transição para a área de tecnologia.
-A ideia surgiu da necessidade real do dia a dia: simular financiamentos
-rapidamente durante o atendimento a clientes.
+A ideia é unir o conhecimento do mercado imobiliário com programação,
+criando ferramentas úteis para o dia a dia do corretor.
 
-## 🚀 Como usar
-1. Clone o repositório
-2. Execute o arquivo `calculadora.py`
-3. Preencha os dados solicitados:
-   - Valor do imóvel
-   - Valor da entrada
-   - Prazo em anos
-   - Taxa de juros anual
+## 📁 Projetos
 
-## 📊 Exemplo de resultado
-Valor do imóvel:      R$ 800,000.00
-Entrada:              R$ 200,000.00
-Valor financiado:     R$ 600,000.00
-Prazo:                30 anos (360 meses)
-Taxa de juros:        11.0% ao ano
-Parcela mensal:       R$ 5,713.94
-Total pago:           R$ 2,057,018.53
-Total em juros:       R$ 1,457,018.53
+| Projeto | Descrição |
+|---------|-----------|
+| [01 - Calculadora de Financiamento](./projeto-01-calculadora) | Simula parcelas, total pago e juros de um financiamento |
+| [02 - Analisador de Perfil do Comprador](./projeto-02-analisador) | Verifica se o cliente tem renda suficiente para financiar |
 
 ## 🛠️ Tecnologias
 - Python 3.13
 
 ## 👨‍💻 Autor
-Felipe Souza
+Felipe Souza — Corretor de imóveis em transição para desenvolvimento de software
+
+[![GitHub](https://img.shields.io/badge/GitHub-FelipeSouza90-black)](https://github.com/FelipeSouza90)
