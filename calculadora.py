@@ -1,4 +1,5 @@
 # Projeto 01 - Calculadora de Financiamento Imobiliário
+# Autor: Felipe Souza
 # Descrição: Calcula o valor mensal de um financiamento imobiliário
 
 
