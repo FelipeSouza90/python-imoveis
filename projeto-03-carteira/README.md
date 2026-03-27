@@ -40,4 +40,3 @@ Valor total da carteira: R$ 2,255,600.00
 
 ## 👨‍💻 Autor
 Felipe Souza — Corretor de imóveis em transição para desenvolvimento de software
-```

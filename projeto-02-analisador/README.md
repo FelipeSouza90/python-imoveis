@@ -32,4 +32,3 @@ Renda necessária: R$ 12,665.51
 
 ## 👨‍💻 Autor
 Felipe Souza — Corretor de imóveis em transição para desenvolvimento de software
-```
