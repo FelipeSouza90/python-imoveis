@@ -12,6 +12,8 @@ criando ferramentas úteis para o dia a dia do corretor.
 |---------|-----------|
 | [01 - Calculadora de Financiamento](./projeto-01-calculadora) | Simula parcelas, total pago e juros de um financiamento |
 | [02 - Analisador de Perfil do Comprador](./projeto-02-analisador) | Verifica se o cliente tem renda suficiente para financiar |
+| [03 - Organizador de Carteira de Imóveis](./projeto-03-carteira) | Cadastra imóveis e calcula o valor total da carteira |
+
 
 ## 🛠️ Tecnologias
 - Python 3.13
