@@ -1,0 +1,31 @@
+==================================================
+RELATÓRIO DE LEADS IMOBILIÁRIOS
+Gerado em: 28/03/2026 13:10
+Total de leads: 2
+==================================================
+
+✅ Aprovados: 1
+❌ Reprovados: 1
+
+Lead 1
+  Nome:      João das Couves
+  Telefone:  11 978477777
+  Endereço:  Rua Plínio de Carvalho, Vila Matilde, São Paulo - SP
+  Renda:     R$ 15,000.00
+  Imóvel:    R$ 350,000.00
+  Parcela:   R$ 2,571.53
+  Perfil:    ✅ APROVADO
+  Data:      28/03/2026 13:08
+
+Lead 2
+  Nome:      Carina Silva
+  Telefone:  11844477777
+  Endereço:  00000000
+  Renda:     R$ 1,000.00
+  Imóvel:    R$ 800,000.00
+  Parcela:   R$ 8,126.04
+  Perfil:    ❌ REPROVADO
+  Data:      28/03/2026 13:09
+
+==================================================
+Relatório gerado automaticamente pelo sistema.
