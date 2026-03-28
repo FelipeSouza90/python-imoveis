@@ -1,0 +1,27 @@
+==================================================
+RELATÓRIO DE VISITAS
+Data: 28/03/2026 | Hora: 10:41
+Corretor: Felipe
+Total de visitas: 3
+==================================================
+
+Visita 1
+  Endereço:  Rua Estevão Lopes, 136
+  Cliente:   Fábio
+  Interesse: Médio
+  Observação: Precisa verificar questão de entrada
+
+Visita 2
+  Endereço:  Rua Helio Manzoni,46
+  Cliente:   Priscila
+  Interesse: Alto
+  Observação: Enviará documentação para análise de crédito
+
+Visita 3
+  Endereço:  Rua Diogo de Faria, 125
+  Cliente:   Geni
+  Interesse: Baixo
+  Observação: Valor acima do que busca
+
+==================================================
+Relatório gerado automaticamente pelo sistema.
