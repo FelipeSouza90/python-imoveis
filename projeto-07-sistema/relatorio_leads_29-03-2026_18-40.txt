@@ -1,0 +1,31 @@
+==================================================
+RELATÓRIO DE LEADS IMOBILIÁRIOS
+Gerado em: 29/03/2026 18:40
+Total de leads: 2
+==================================================
+
+✅ Aprovados: 2
+❌ Reprovados: 0
+
+Lead 1
+  Nome:      teste 1
+  Telefone:  1185454545
+  Endereço:  Avenida Campista, Vila Rosália, Guarulhos - SP
+  Renda:     R$ 25,400.00
+  Imóvel:    R$ 200,000.00
+  Parcela:   R$ 1,028.61
+  Perfil:    ✅ APROVADO
+  Data:      29/03/2026 18:39
+
+Lead 2
+  Nome:      teste 2
+  Telefone:  2154693333
+  Endereço:  Rua Arujá, Vila Tijuco, Guarulhos - SP
+  Renda:     R$ 30,000.00
+  Imóvel:    R$ 250,000.00
+  Parcela:   R$ 2,468.67
+  Perfil:    ✅ APROVADO
+  Data:      29/03/2026 18:40
+
+==================================================
+Relatório gerado automaticamente pelo sistema.
