@@ -1,0 +1,14 @@
+# Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Arquivos de ambiente virtual
+venv/
+.env
+
+# Arquivos do VS Code
+.vscode/
+
+# Relatórios gerados automaticamente
+relatorio_*.txt 
