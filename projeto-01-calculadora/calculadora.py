@@ -7,10 +7,10 @@ print("===== SIMULAÇÃO DE FINANCIAMENTO =====")
 print("Preencha os dados abaixo:\n")
 
 # ---- DADOS DO IMÓVEL ----
-valor_imovel = float(input("Valor do imóvel: R$ "))        # Valor total do imóvel em reais
-entrada = float(input('Valor de entrada: R$ '))             # Valor da entrada
-prazo_anos = int(input('Prazo de financiamento (em anos): '))                # Prazo do financiamento em anos
-taxa_juros_anual = float(input('Taxa de juros anual do banco (%): '))        # Taxa de juros anual em %
+valor_imovel = float(input("Valor do imóvel: R$ "))
+entrada = float(input('Valor de entrada: R$ '))
+prazo_anos = int(input('Prazo de financiamento (em anos): '))
+taxa_juros_anual = float(input('Taxa de juros anual do banco (%): '))
 
 # ---- CÁLCULOS ----
 valor_financiado = valor_imovel - entrada
